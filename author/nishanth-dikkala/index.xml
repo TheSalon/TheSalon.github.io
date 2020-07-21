@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nishanth Dikkala | The Salon</title>
+    <link>https://thesalon.github.io/author/nishanth-dikkala/</link>
+      <atom:link href="https://thesalon.github.io/author/nishanth-dikkala/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nishanth Dikkala</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thesalon.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Nishanth Dikkala</title>
+      <link>https://thesalon.github.io/author/nishanth-dikkala/</link>
+    </image>
+    
+    <item>
+      <title>Testing Ising Models</title>
+      <link>https://thesalon.github.io/publication/daskalakis-dk-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/daskalakis-dk-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Ising Models</title>
+      <link>https://thesalon.github.io/test/daskalakis-dk-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/test/daskalakis-dk-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Ising Models</title>
+      <link>https://thesalon.github.io/publication/daskalakis-dk-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/daskalakis-dk-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Ising Models</title>
+      <link>https://thesalon.github.io/test/daskalakis-dk-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/test/daskalakis-dk-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concentration of Multilinear Functions of the Ising Model with Applications to Network Data</title>
+      <link>https://thesalon.github.io/publication/daskalakis-dk-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/daskalakis-dk-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concentration of Multilinear Functions of the Ising Model with Applications to Network Data</title>
+      <link>https://thesalon.github.io/test/daskalakis-dk-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/test/daskalakis-dk-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
