@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Steinke | Academic</title>
+    <link>https://thesalon.github.io/author/thomas-steinke/</link>
+      <atom:link href="https://thesalon.github.io/author/thomas-steinke/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Steinke</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thesalon.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Thomas Steinke</title>
+      <link>https://thesalon.github.io/author/thomas-steinke/</link>
+    </image>
+    
+    <item>
+      <title>The Discrete Gaussian for Differential Privacy</title>
+      <link>https://thesalon.github.io/publication/canonne-ks-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/canonne-ks-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Discrete Gaussian for Differential Privacy</title>
+      <link>https://thesalon.github.io/publication2/canonne-ks-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication2/canonne-ks-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Private Hypothesis Selection</title>
+      <link>https://thesalon.github.io/publication/bun-ksw-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/bun-ksw-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Private Hypothesis Selection</title>
+      <link>https://thesalon.github.io/publication2/bun-ksw-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication2/bun-ksw-19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

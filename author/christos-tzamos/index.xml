@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christos Tzamos | Academic</title>
+    <link>https://thesalon.github.io/author/christos-tzamos/</link>
+      <atom:link href="https://thesalon.github.io/author/christos-tzamos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christos Tzamos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thesalon.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Christos Tzamos</title>
+      <link>https://thesalon.github.io/author/christos-tzamos/</link>
+    </image>
+    
+    <item>
+      <title>Anaconda: A Non-Adaptive Conditional Sampling Algorithm for Distribution Testing</title>
+      <link>https://thesalon.github.io/publication/kamath-t-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/kamath-t-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anaconda: A Non-Adaptive Conditional Sampling Algorithm for Distribution Testing</title>
+      <link>https://thesalon.github.io/publication2/kamath-t-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication2/kamath-t-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Actively Avoiding Nonsense in Generative Models</title>
+      <link>https://thesalon.github.io/publication/hanneke-kkt-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/hanneke-kkt-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Actively Avoiding Nonsense in Generative Models</title>
+      <link>https://thesalon.github.io/publication2/hanneke-kkt-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication2/hanneke-kkt-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Size-Free CLT for Poisson Multinomials and its Applications</title>
+      <link>https://thesalon.github.io/publication/daskalakis-dkt-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/daskalakis-dkt-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Size-Free CLT for Poisson Multinomials and its Applications</title>
+      <link>https://thesalon.github.io/publication2/daskalakis-dkt-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication2/daskalakis-dkt-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Structure, Covering, and Learning of Poisson Multinomial Distributions</title>
+      <link>https://thesalon.github.io/publication/daskalakis-kt-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/daskalakis-kt-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Structure, Covering, and Learning of Poisson Multinomial Distributions</title>
+      <link>https://thesalon.github.io/publication2/daskalakis-kt-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication2/daskalakis-kt-15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alistair Stewart | Academic</title>
+    <link>https://thesalon.github.io/author/alistair-stewart/</link>
+      <atom:link href="https://thesalon.github.io/author/alistair-stewart/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alistair Stewart</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thesalon.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Alistair Stewart</title>
+      <link>https://thesalon.github.io/author/alistair-stewart/</link>
+    </image>
+    
+    <item>
+      <title>Robust Estimators in High-Dimensions Without the Computational Intractability</title>
+      <link>https://thesalon.github.io/publication/diakonikolas-kklms-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/diakonikolas-kklms-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Estimators in High-Dimensions Without the Computational Intractability</title>
+      <link>https://thesalon.github.io/publication2/diakonikolas-kklms-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication2/diakonikolas-kklms-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sever: A Robust Meta-Algorithm for Stochastic Optimization</title>
+      <link>https://thesalon.github.io/publication/diakonikolas-kklss-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/diakonikolas-kklss-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sever: A Robust Meta-Algorithm for Stochastic Optimization</title>
+      <link>https://thesalon.github.io/publication2/diakonikolas-kklss-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication2/diakonikolas-kklss-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustly Learning a Gaussian: Getting Optimal Error, Efficiently</title>
+      <link>https://thesalon.github.io/publication/diakonikolas-kklms-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/diakonikolas-kklms-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustly Learning a Gaussian: Getting Optimal Error, Efficiently</title>
+      <link>https://thesalon.github.io/publication2/diakonikolas-kklms-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication2/diakonikolas-kklms-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Being Robust (in High Dimensions) Can Be Practical</title>
+      <link>https://thesalon.github.io/publication/diakonikolas-kklms-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/diakonikolas-kklms-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Being Robust (in High Dimensions) Can Be Practical</title>
+      <link>https://thesalon.github.io/publication2/diakonikolas-kklms-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication2/diakonikolas-kklms-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Estimators in High Dimensions without the Computational Intractability</title>
+      <link>https://thesalon.github.io/publication/diakonikolas-kklms-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/diakonikolas-kklms-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Estimators in High Dimensions without the Computational Intractability</title>
+      <link>https://thesalon.github.io/publication2/diakonikolas-kklms-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication2/diakonikolas-kklms-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
