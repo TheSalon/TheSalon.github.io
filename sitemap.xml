@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://thesalon.github.io/publication-type/1/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <loc>https://thesalon.github.io/funding/</loc>
+    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thesalon.github.io/</loc>
+    <loc>https://thesalon.github.io/people/</loc>
+    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thesalon.github.io/publication-type/1/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -69,6 +74,11 @@
   
   <url>
     <loc>https://thesalon.github.io/author/sivakanth-gopi/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thesalon.github.io/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -428,7 +438,23 @@
   </url>
   
   <url>
+    <loc>https://thesalon.github.io/author/argyris-mouzakis/</loc>
+  </url>
+  
+  <url>
     <loc>https://thesalon.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thesalon.github.io/author/christian-covington/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thesalon.github.io/author/gautam-kamath/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thesalon.github.io/author/mahbod-majid/</loc>
   </url>
   
   <url>
@@ -436,11 +462,15 @@
   </url>
   
   <url>
-    <loc>https://thesalon.github.io/post/</loc>
+    <loc>https://thesalon.github.io/author/pranav-subramani/</loc>
   </url>
   
   <url>
-    <loc>https://thesalon.github.io/talk/</loc>
+    <loc>https://thesalon.github.io/author/shubhankar-mohapatra/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thesalon.github.io/author/sourav-biswas/</loc>
   </url>
   
   <url>
