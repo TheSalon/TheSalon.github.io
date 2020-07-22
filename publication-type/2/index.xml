@@ -21,26 +21,10 @@
     </item>
     
     <item>
-      <title>CoinPress: Practical Private Mean and Covariance Estimation</title>
-      <link>https://thesalon.github.io/publication2/biswas-dku-20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://thesalon.github.io/publication2/biswas-dku-20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>INSPECTRE: Privately Estimating the Unseen</title>
       <link>https://thesalon.github.io/publication/acharya-ksz-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://thesalon.github.io/publication/acharya-ksz-20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>INSPECTRE: Privately Estimating the Unseen</title>
-      <link>https://thesalon.github.io/publication2/acharya-ksz-20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://thesalon.github.io/publication2/acharya-ksz-20/</guid>
       <description></description>
     </item>
     
@@ -53,26 +37,10 @@
     </item>
     
     <item>
-      <title>PAPRIKA: Private Online False Discovery Rate Control</title>
-      <link>https://thesalon.github.io/publication2/zhang-kc-20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://thesalon.github.io/publication2/zhang-kc-20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The Discrete Gaussian for Differential Privacy</title>
       <link>https://thesalon.github.io/publication/canonne-ks-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://thesalon.github.io/publication/canonne-ks-20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Discrete Gaussian for Differential Privacy</title>
-      <link>https://thesalon.github.io/publication2/canonne-ks-20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://thesalon.github.io/publication2/canonne-ks-20/</guid>
       <description></description>
     </item>
     
@@ -85,26 +53,10 @@
     </item>
     
     <item>
-      <title>Private Identity Testing for High-Dimensional Distributions</title>
-      <link>https://thesalon.github.io/publication2/canonne-kmuz-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://thesalon.github.io/publication2/canonne-kmuz-19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Random Restrictions of High-Dimensional Distributions and Uniformity Testing with Subcube Conditioning</title>
       <link>https://thesalon.github.io/publication/canonne-cklw-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://thesalon.github.io/publication/canonne-cklw-19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Random Restrictions of High-Dimensional Distributions and Uniformity Testing with Subcube Conditioning</title>
-      <link>https://thesalon.github.io/publication2/canonne-cklw-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://thesalon.github.io/publication2/canonne-cklw-19/</guid>
       <description></description>
     </item>
     
@@ -117,14 +69,6 @@
     </item>
     
     <item>
-      <title>Robust Estimators in High-Dimensions Without the Computational Intractability</title>
-      <link>https://thesalon.github.io/publication2/diakonikolas-kklms-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://thesalon.github.io/publication2/diakonikolas-kklms-19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Testing Ising Models</title>
       <link>https://thesalon.github.io/publication/daskalakis-dk-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -133,26 +77,10 @@
     </item>
     
     <item>
-      <title>Testing Ising Models</title>
-      <link>https://thesalon.github.io/publication2/daskalakis-dk-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://thesalon.github.io/publication2/daskalakis-dk-19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A Chasm Between Identity and Equivalence Testing with Conditional Queries</title>
       <link>https://thesalon.github.io/publication/acharya-ck-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://thesalon.github.io/publication/acharya-ck-18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Chasm Between Identity and Equivalence Testing with Conditional Queries</title>
-      <link>https://thesalon.github.io/publication2/acharya-ck-18/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://thesalon.github.io/publication2/acharya-ck-18/</guid>
       <description></description>
     </item>
     
