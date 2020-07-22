@@ -5,7 +5,7 @@
     <link>https://thesalon.github.io/author/constantinos-daskalakis/</link>
       <atom:link href="https://thesalon.github.io/author/constantinos-daskalakis/index.xml" rel="self" type="application/rss+xml" />
     <description>Constantinos Daskalakis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://thesalon.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Constantinos Daskalakis</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Testing Ising Models</title>
       <link>https://thesalon.github.io/publication/daskalakis-dk-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://thesalon.github.io/publication/daskalakis-dk-19/</guid>
       <description></description>
     </item>
@@ -39,7 +39,7 @@
     <item>
       <title>Concentration of Multilinear Functions of the Ising Model with Applications to Network Data</title>
       <link>https://thesalon.github.io/publication/daskalakis-dk-17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       <guid>https://thesalon.github.io/publication/daskalakis-dk-17/</guid>
       <description></description>
     </item>
@@ -47,7 +47,7 @@
     <item>
       <title>Priv&#39;IT: Private and Sample Efficient Identity Testing</title>
       <link>https://thesalon.github.io/publication/cai-dk-17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       <guid>https://thesalon.github.io/publication/cai-dk-17/</guid>
       <description></description>
     </item>
@@ -55,31 +55,31 @@
     <item>
       <title>A Size-Free CLT for Poisson Multinomials and its Applications</title>
       <link>https://thesalon.github.io/publication/daskalakis-dkt-16/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       <guid>https://thesalon.github.io/publication/daskalakis-dkt-16/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the Structure, Covering, and Learning of Poisson Multinomial Distributions</title>
-      <link>https://thesalon.github.io/publication/daskalakis-kt-15/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://thesalon.github.io/publication/daskalakis-kt-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimal Testing for Properties of Distributions</title>
       <link>https://thesalon.github.io/publication/acharya-dk-15/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://thesalon.github.io/publication/acharya-dk-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Structure, Covering, and Learning of Poisson Multinomial Distributions</title>
+      <link>https://thesalon.github.io/publication/daskalakis-kt-15/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/daskalakis-kt-15/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Faster and Sample Near-Optimal Algorithms for Proper Learning Mixtures of Gaussians</title>
       <link>https://thesalon.github.io/publication/daskalakis-k-14/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
       <guid>https://thesalon.github.io/publication/daskalakis-k-14/</guid>
       <description></description>
     </item>
