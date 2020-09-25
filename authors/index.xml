@@ -1,16 +1,461 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | The Salon</title>
+    <title>Authors on The Salon</title>
     <link>https://thesalon.github.io/authors/</link>
-      <atom:link href="https://thesalon.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://thesalon.github.io/images/icon_hue168cad3424bfc45f8169f9e0106675a_24249_512x512_fill_lanczos_center_2.png</url>
-      <title>Authors</title>
-      <link>https://thesalon.github.io/authors/</link>
-    </image>
+    <description>Recent content in Authors on The Salon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://thesalon.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Audra McMillan</title>
+      <link>https://thesalon.github.io/author/audra-mcmillan/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/audra-mcmillan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clément L. Canonne</title>
+      <link>https://thesalon.github.io/author/clement-l.-canonne/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/clement-l.-canonne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gautam Kamath</title>
+      <link>https://thesalon.github.io/author/gautam-kamath/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/gautam-kamath/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Ullman</title>
+      <link>https://thesalon.github.io/author/jonathan-ullman/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/jonathan-ullman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lydia Zakynthinou</title>
+      <link>https://thesalon.github.io/author/lydia-zakynthinou/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/lydia-zakynthinou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aleksandar Nikolov</title>
+      <link>https://thesalon.github.io/author/aleksandar-nikolov/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/aleksandar-nikolov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Huanyu Zhang</title>
+      <link>https://thesalon.github.io/author/huanyu-zhang/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/huanyu-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Janardhan Kulkarni</title>
+      <link>https://thesalon.github.io/author/janardhan-kulkarni/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/janardhan-kulkarni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sivakanth Gopi</title>
+      <link>https://thesalon.github.io/author/sivakanth-gopi/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/sivakanth-gopi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vikrant Singhal</title>
+      <link>https://thesalon.github.io/author/vikrant-singhal/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/vikrant-singhal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhiwei Steven Wu</title>
+      <link>https://thesalon.github.io/author/zhiwei-steven-wu/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/zhiwei-steven-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jayadev Acharya</title>
+      <link>https://thesalon.github.io/author/jayadev-acharya/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/jayadev-acharya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sourav Biswas</title>
+      <link>https://thesalon.github.io/author/sourav-biswas/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/sourav-biswas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yihe Dong</title>
+      <link>https://thesalon.github.io/author/yihe-dong/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/yihe-dong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ziteng Sun</title>
+      <link>https://thesalon.github.io/author/ziteng-sun/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/ziteng-sun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas Steinke</title>
+      <link>https://thesalon.github.io/author/thomas-steinke/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/thomas-steinke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rachel Cummings</title>
+      <link>https://thesalon.github.io/author/rachel-cummings/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/rachel-cummings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wanrong Zhang</title>
+      <link>https://thesalon.github.io/author/wanrong-zhang/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/wanrong-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Bun</title>
+      <link>https://thesalon.github.io/author/mark-bun/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/mark-bun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Or Sheffet</title>
+      <link>https://thesalon.github.io/author/or-sheffet/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/or-sheffet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amit Levi</title>
+      <link>https://thesalon.github.io/author/amit-levi/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/amit-levi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erik Waingarten</title>
+      <link>https://thesalon.github.io/author/erik-waingarten/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/erik-waingarten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xi Chen</title>
+      <link>https://thesalon.github.io/author/xi-chen/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/xi-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constantinos Daskalakis</title>
+      <link>https://thesalon.github.io/author/constantinos-daskalakis/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/constantinos-daskalakis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nishanth Dikkala</title>
+      <link>https://thesalon.github.io/author/nishanth-dikkala/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/nishanth-dikkala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adam Smith</title>
+      <link>https://thesalon.github.io/author/adam-smith/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/adam-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alistair Stewart</title>
+      <link>https://thesalon.github.io/author/alistair-stewart/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/alistair-stewart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel M. Kane</title>
+      <link>https://thesalon.github.io/author/daniel-m.-kane/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/daniel-m.-kane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ilias Diakonikolas</title>
+      <link>https://thesalon.github.io/author/ilias-diakonikolas/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/ilias-diakonikolas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jacob Steinhardt</title>
+      <link>https://thesalon.github.io/author/jacob-steinhardt/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/jacob-steinhardt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jerry Li</title>
+      <link>https://thesalon.github.io/author/jerry-li/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/jerry-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ankur Moitra</title>
+      <link>https://thesalon.github.io/author/ankur-moitra/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/ankur-moitra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christos Tzamos</title>
+      <link>https://thesalon.github.io/author/christos-tzamos/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/christos-tzamos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adam Kalai</title>
+      <link>https://thesalon.github.io/author/adam-kalai/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/adam-kalai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steve Hanneke</title>
+      <link>https://thesalon.github.io/author/steve-hanneke/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/steve-hanneke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Wright</title>
+      <link>https://thesalon.github.io/author/john-wright/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/john-wright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bryan Cai</title>
+      <link>https://thesalon.github.io/author/bryan-cai/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/bryan-cai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anindya De</title>
+      <link>https://thesalon.github.io/author/anindya-de/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/anindya-de/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christina Brandt</title>
+      <link>https://thesalon.github.io/author/christina-brandt/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/christina-brandt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicole Immorlica</title>
+      <link>https://thesalon.github.io/author/nicole-immorlica/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/nicole-immorlica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Kleinberg</title>
+      <link>https://thesalon.github.io/author/robert-kleinberg/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/robert-kleinberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Argyris Mouzakis</title>
+      <link>https://thesalon.github.io/author/argyris-mouzakis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/argyris-mouzakis/</guid>
+      <description>Argyris Mouzakis is an incoming student in the Computer Science PhD program at the University of Waterloo. His research interests broadly lie at the intersection of Theoretical Computer Science and Probability &amp;amp; Statistics.</description>
+    </item>
+    
+    <item>
+      <title>Christian Covington</title>
+      <link>https://thesalon.github.io/author/christian-covington/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/christian-covington/</guid>
+      <description>Christian Covington is an incoming student in the MMath Computer Science program at University of Waterloo&amp;rsquo;s Cheriton School of Computer Science, co-advised with Xi He. His research interests include statistical validity in adaptive data analysis settings and statistical data privacy.</description>
+    </item>
+    
+    <item>
+      <title>Gautam Kamath</title>
+      <link>https://thesalon.github.io/author/gautam-kamath/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/gautam-kamath/</guid>
+      <description>Gautam Kamath is an assistant professor at University of Waterloo&amp;rsquo;s Cheriton School of Computer Science. His research interests include statistics and machine learning, with a focus on settings which are common in modern data analysis, including privacy, robustness, and high-dimensional data.</description>
+    </item>
+    
+    <item>
+      <title>Mahbod Majid</title>
+      <link>https://thesalon.github.io/author/mahbod-majid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/mahbod-majid/</guid>
+      <description>Mahbod Majid is an incoming student in the MMath Computer Science program at University of Waterloo’s Cheriton School of Computer Science. His research interests include private and robust statistics.</description>
+    </item>
+    
+    <item>
+      <title>Nelson Bighetti</title>
+      <link>https://thesalon.github.io/author/nelson-bighetti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/nelson-bighetti/</guid>
+      <description>Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.</description>
+    </item>
+    
+    <item>
+      <title>Pranav Subramani</title>
+      <link>https://thesalon.github.io/author/pranav-subramani/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/pranav-subramani/</guid>
+      <description>Pranav Subramani is a recent graduate from the University Of Waterloo in Computer Science and Combinatorics and Optimization. His focus is on probabilistic programming and Bayesian inference, and he is interested in differential privacy and adversarial robustness.</description>
+    </item>
+    
+    <item>
+      <title>Shubhankar Mohapatra</title>
+      <link>https://thesalon.github.io/author/shubhankar-mohapatra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/shubhankar-mohapatra/</guid>
+      <description>Shubhankar Mohapatra is a research associate at University of Waterloo&amp;rsquo;s Cheriton School of Computer Science supervised by Xi He. His research interests include differentially private learning, federated learning with a focus on data cleaning and health informatics.</description>
+    </item>
+    
+    <item>
+      <title>Sourav Biswas</title>
+      <link>https://thesalon.github.io/author/sourav-biswas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/sourav-biswas/</guid>
+      <description>Sourav Biswas is an undergraduate researcher at University of Waterloo&amp;rsquo;s Cheriton School of Computer Science. His research interests include machine learning, computer vision and statistics, with a focus on applications in autonomous vehicles, finance, and sports.</description>
+    </item>
+    
+    <item>
+      <title>Xingtu Liu</title>
+      <link>https://thesalon.github.io/author/xingtu-liu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thesalon.github.io/author/xingtu-liu/</guid>
+      <description>Xingtu Liu is an undergraduate student at University of Waterloo with a major in Computer Science and minors in Pure Math and Statistics. His research interests include deep learning, statistics, and optimization.</description>
+    </item>
     
   </channel>
 </rss>

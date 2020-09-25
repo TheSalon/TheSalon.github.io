@@ -1,21 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Constantinos Daskalakis | The Salon</title>
+    <title>Constantinos Daskalakis on The Salon</title>
     <link>https://thesalon.github.io/author/constantinos-daskalakis/</link>
-      <atom:link href="https://thesalon.github.io/author/constantinos-daskalakis/index.xml" rel="self" type="application/rss+xml" />
-    <description>Constantinos Daskalakis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://thesalon.github.io/images/icon_hue168cad3424bfc45f8169f9e0106675a_24249_512x512_fill_lanczos_center_2.png</url>
-      <title>Constantinos Daskalakis</title>
-      <link>https://thesalon.github.io/author/constantinos-daskalakis/</link>
-    </image>
-    
+    <description>Recent content in Constantinos Daskalakis on The Salon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://thesalon.github.io/author/constantinos-daskalakis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Testing Ising Models</title>
       <link>https://thesalon.github.io/publication/daskalakis-dk-19/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://thesalon.github.io/publication/daskalakis-dk-19/</guid>
       <description></description>
     </item>
@@ -24,6 +20,7 @@
       <title>Testing Ising Models</title>
       <link>https://thesalon.github.io/publication/daskalakis-dk-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://thesalon.github.io/publication/daskalakis-dk-18/</guid>
       <description></description>
     </item>
@@ -32,6 +29,7 @@
       <title>Which Distribution Distances are Sublinearly Testable?</title>
       <link>https://thesalon.github.io/publication/daskalakis-kw-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://thesalon.github.io/publication/daskalakis-kw-18/</guid>
       <description></description>
     </item>
@@ -40,6 +38,7 @@
       <title>Concentration of Multilinear Functions of the Ising Model with Applications to Network Data</title>
       <link>https://thesalon.github.io/publication/daskalakis-dk-17/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://thesalon.github.io/publication/daskalakis-dk-17/</guid>
       <description></description>
     </item>
@@ -48,6 +47,7 @@
       <title>Priv&#39;IT: Private and Sample Efficient Identity Testing</title>
       <link>https://thesalon.github.io/publication/cai-dk-17/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://thesalon.github.io/publication/cai-dk-17/</guid>
       <description></description>
     </item>
@@ -56,6 +56,7 @@
       <title>A Size-Free CLT for Poisson Multinomials and its Applications</title>
       <link>https://thesalon.github.io/publication/daskalakis-dkt-16/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
       <guid>https://thesalon.github.io/publication/daskalakis-dkt-16/</guid>
       <description></description>
     </item>
@@ -64,6 +65,7 @@
       <title>Optimal Testing for Properties of Distributions</title>
       <link>https://thesalon.github.io/publication/acharya-dk-15/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
       <guid>https://thesalon.github.io/publication/acharya-dk-15/</guid>
       <description></description>
     </item>
@@ -72,6 +74,7 @@
       <title>On the Structure, Covering, and Learning of Poisson Multinomial Distributions</title>
       <link>https://thesalon.github.io/publication/daskalakis-kt-15/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
       <guid>https://thesalon.github.io/publication/daskalakis-kt-15/</guid>
       <description></description>
     </item>
@@ -80,6 +83,7 @@
       <title>Faster and Sample Near-Optimal Algorithms for Proper Learning Mixtures of Gaussians</title>
       <link>https://thesalon.github.io/publication/daskalakis-k-14/</link>
       <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      
       <guid>https://thesalon.github.io/publication/daskalakis-k-14/</guid>
       <description></description>
     </item>

@@ -1,21 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Christina Brandt | The Salon</title>
+    <title>Christina Brandt on The Salon</title>
     <link>https://thesalon.github.io/author/christina-brandt/</link>
-      <atom:link href="https://thesalon.github.io/author/christina-brandt/index.xml" rel="self" type="application/rss+xml" />
-    <description>Christina Brandt</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 May 2012 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://thesalon.github.io/images/icon_hue168cad3424bfc45f8169f9e0106675a_24249_512x512_fill_lanczos_center_2.png</url>
-      <title>Christina Brandt</title>
-      <link>https://thesalon.github.io/author/christina-brandt/</link>
-    </image>
-    
+    <description>Recent content in Christina Brandt on The Salon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 May 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://thesalon.github.io/author/christina-brandt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An Analysis of One-Dimensional Schelling Segregation</title>
       <link>https://thesalon.github.io/publication/brandt-ikk-12/</link>
       <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      
       <guid>https://thesalon.github.io/publication/brandt-ikk-12/</guid>
       <description></description>
     </item>
