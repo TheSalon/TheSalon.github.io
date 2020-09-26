@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Clément L. Canonne on The Salon</title>
+    <title>Clément L. Canonne | The Salon</title>
     <link>https://thesalon.github.io/author/clement-l.-canonne/</link>
-    <description>Recent content in Clément L. Canonne on The Salon</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://thesalon.github.io/author/clement-l.-canonne/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://thesalon.github.io/author/clement-l.-canonne/index.xml" rel="self" type="application/rss+xml" />
+    <description>Clément L. Canonne</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thesalon.github.io/images/icon_hue168cad3424bfc45f8169f9e0106675a_24249_512x512_fill_lanczos_center_2.png</url>
+      <title>Clément L. Canonne</title>
+      <link>https://thesalon.github.io/author/clement-l.-canonne/</link>
+    </image>
+    
     <item>
       <title>Private Identity Testing for High-Dimensional Distributions</title>
       <link>https://thesalon.github.io/publication/canonne-kmuz-20/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://thesalon.github.io/publication/canonne-kmuz-20/</guid>
       <description></description>
     </item>
@@ -19,8 +23,7 @@
     <item>
       <title>The Discrete Gaussian for Differential Privacy</title>
       <link>https://thesalon.github.io/publication/canonne-ks-20/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://thesalon.github.io/publication/canonne-ks-20/</guid>
       <description></description>
     </item>
@@ -29,7 +32,6 @@
       <title>Random Restrictions of High-Dimensional Distributions and Uniformity Testing with Subcube Conditioning</title>
       <link>https://thesalon.github.io/publication/canonne-cklw-19/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://thesalon.github.io/publication/canonne-cklw-19/</guid>
       <description></description>
     </item>
@@ -38,7 +40,6 @@
       <title>The Structure of Optimal Private Tests for Simple Hypotheses</title>
       <link>https://thesalon.github.io/publication/canonne-kmsu-19/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://thesalon.github.io/publication/canonne-kmsu-19/</guid>
       <description></description>
     </item>
@@ -47,7 +48,6 @@
       <title>Private Identity Testing for High-Dimensional Distributions</title>
       <link>https://thesalon.github.io/publication/canonne-kmuz-19/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://thesalon.github.io/publication/canonne-kmuz-19/</guid>
       <description></description>
     </item>
@@ -56,7 +56,6 @@
       <title>A Chasm Between Identity and Equivalence Testing with Conditional Queries</title>
       <link>https://thesalon.github.io/publication/acharya-ck-18/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://thesalon.github.io/publication/acharya-ck-18/</guid>
       <description></description>
     </item>
@@ -65,7 +64,6 @@
       <title>A Chasm Between Identity and Equivalence Testing with Conditional Queries</title>
       <link>https://thesalon.github.io/publication/acharya-ck-15-b/</link>
       <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://thesalon.github.io/publication/acharya-ck-15-b/</guid>
       <description></description>
     </item>
@@ -74,7 +72,6 @@
       <title>Adaptive Estimation in Weighted Group Testing</title>
       <link>https://thesalon.github.io/publication/acharya-ck-15-a/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://thesalon.github.io/publication/acharya-ck-15-a/</guid>
       <description></description>
     </item>

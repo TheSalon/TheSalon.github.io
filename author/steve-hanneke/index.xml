@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Steve Hanneke on The Salon</title>
+    <title>Steve Hanneke | The Salon</title>
     <link>https://thesalon.github.io/author/steve-hanneke/</link>
-    <description>Recent content in Steve Hanneke on The Salon</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://thesalon.github.io/author/steve-hanneke/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://thesalon.github.io/author/steve-hanneke/index.xml" rel="self" type="application/rss+xml" />
+    <description>Steve Hanneke</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thesalon.github.io/images/icon_hue168cad3424bfc45f8169f9e0106675a_24249_512x512_fill_lanczos_center_2.png</url>
+      <title>Steve Hanneke</title>
+      <link>https://thesalon.github.io/author/steve-hanneke/</link>
+    </image>
+    
     <item>
       <title>Actively Avoiding Nonsense in Generative Models</title>
       <link>https://thesalon.github.io/publication/hanneke-kkt-18/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://thesalon.github.io/publication/hanneke-kkt-18/</guid>
       <description></description>
     </item>
