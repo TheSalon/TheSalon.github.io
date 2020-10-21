@@ -45,6 +45,22 @@
     </item>
     
     <item>
+      <title>Enabling Fast Differentially Private SGD via Just-in-Time Compilation and Vectorization</title>
+      <link>https://thesalon.github.io/publication/subramani-vk-20/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/subramani-vk-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Sample Complexity of Privately Learning Unbounded High-Dimensional Gaussians</title>
+      <link>https://thesalon.github.io/publication/aden-ali-ak-20/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/aden-ali-ak-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Locally Private Hypothesis Selection</title>
       <link>https://thesalon.github.io/publication/gopi-kknwz-20/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>

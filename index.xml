@@ -53,6 +53,22 @@
     </item>
     
     <item>
+      <title>Enabling Fast Differentially Private SGD via Just-in-Time Compilation and Vectorization</title>
+      <link>https://thesalon.github.io/publication/subramani-vk-20/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/subramani-vk-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Sample Complexity of Privately Learning Unbounded High-Dimensional Gaussians</title>
+      <link>https://thesalon.github.io/publication/aden-ali-ak-20/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/aden-ali-ak-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Funding</title>
       <link>https://thesalon.github.io/funding/</link>
       <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
@@ -66,10 +82,15 @@
       <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://thesalon.github.io/people/</guid>
       <description>&lt;p&gt;Your Host - Gautam Kamath&lt;/p&gt;
+
 &lt;p&gt;Graduate Students - Argyris Mouzakis, Christian Covington, Mahbod Majid&lt;/p&gt;
+
 &lt;p&gt;Affiliated Members - Shubhankar Mohapatra, Pranav Subramani&lt;/p&gt;
+
 &lt;p&gt;Undergraduate Students - Sourav Biswas&lt;/p&gt;
+
 &lt;p&gt;Visitors -&lt;/p&gt;
+
 &lt;p&gt;Alumni - Pranav Subramani, Vikrant Singhal&lt;/p&gt;
 </description>
     </item>
