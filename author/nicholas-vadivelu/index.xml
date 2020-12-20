@@ -5,12 +5,20 @@
     <link>https://thesalon.github.io/author/nicholas-vadivelu/</link>
       <atom:link href="https://thesalon.github.io/author/nicholas-vadivelu/index.xml" rel="self" type="application/rss+xml" />
     <description>Nicholas Vadivelu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://thesalon.github.io/images/icon_hue168cad3424bfc45f8169f9e0106675a_24249_512x512_fill_lanczos_center_2.png</url>
       <title>Nicholas Vadivelu</title>
       <link>https://thesalon.github.io/author/nicholas-vadivelu/</link>
     </image>
+    
+    <item>
+      <title>Enabling Fast Differentially Private SGD via Just-in-Time Compilation and Vectorization</title>
+      <link>https://thesalon.github.io/publication/subramani-vk-20/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/subramani-vk-20/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
