@@ -21,6 +21,22 @@
     </item>
     
     <item>
+      <title>Improved Rates for Differentially Private Stochastic Convex Optimization with Heavy-Tailed Data</title>
+      <link>https://thesalon.github.io/publication/kamath-lz-21/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/kamath-lz-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Price of Tolerance in Distribution Testing</title>
+      <link>https://thesalon.github.io/publication/canonne-jkl-21/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/canonne-jkl-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>On the Sample Complexity of Privately Learning Unbounded High-Dimensional Gaussians</title>
       <link>https://thesalon.github.io/publication/aden-ali-ak-21/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
@@ -73,14 +89,6 @@
       <link>https://thesalon.github.io/publication/canonne-ks-20/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://thesalon.github.io/publication/canonne-ks-20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Enabling Fast Differentially Private SGD via Just-in-Time Compilation and Vectorization</title>
-      <link>https://thesalon.github.io/jaxpaper/</link>
-      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://thesalon.github.io/jaxpaper/</guid>
       <description></description>
     </item>
     
