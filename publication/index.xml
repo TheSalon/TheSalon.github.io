@@ -61,6 +61,22 @@
     </item>
     
     <item>
+      <title>Per-Instance Privacy Accounting for Differentially Private Stochastic Gradient Descent</title>
+      <link>https://thesalon.github.io/publication/yu-kklyz-22/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/yu-kklyz-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Lower Bounds for Private Estimation and a Generalized Fingerprinting Lemma</title>
+      <link>https://thesalon.github.io/publication/kamath-ms-22/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/kamath-ms-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Differentially Private Fine-tuning of Language Models</title>
       <link>https://thesalon.github.io/publication/yu-nbgikklmwyz-22/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
