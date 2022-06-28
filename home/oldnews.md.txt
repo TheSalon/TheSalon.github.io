@@ -1,0 +1,12 @@
+ * December 2021: [One paper](https://arxiv.org/abs/2111.04906) accepted to AAAI 2022.
+ * November 2021: Four papers posted on arXiv: [1](https://arxiv.org/abs/2111.04609), [2](https://arxiv.org/abs/2111.04906), [3](https://arxiv.org/abs/2111.05320), [4](https://arxiv.org/abs/2111.12981).
+ * October 2021: Two papers posted on arXiv ([1](https://arxiv.org/abs/2110.06500), [2](https://arxiv.org/abs/2110.14465)).
+ * September 2021: Two papers ([1](https://arxiv.org/abs/2010.09063), [2](https://arxiv.org/abs/2103.03279)) accepted to NeurIPS 2021.
+ * September 2021: Mahbod Majid wins the Waterloo [CPI](https://uwaterloo.ca/cybersecurity-privacy-institute/) [Cybersecurity and Privacy Excellence Graduate Scholarship](https://uwaterloo.ca/cybersecurity-privacy-institute/scholarships).
+* June 2021: Two papers posted on arXiv ([1](https://arxiv.org/abs/2106.01336), [2](https://arxiv.org/abs/2106.13414)).
+* May 2021: Nicholas Vadivelu receives the [Jessie W.H. Zou Memorial Award](https://cs.uwaterloo.ca/news/nicholas-vadivelu-receives-2021-jessie-w-h-zou-memorial-award).
+* May 2021: Incoming students Alex Bie and Matt Regehr awarded the [Vector Scholarship in Artifical Intelligence](https://cs.uwaterloo.ca/news/cheriton-masters-students-awarded-vector-scholarships-in-artificial-intelligence).
+* May 2021: [One paper](https://arxiv.org/abs/2002.12321) accepted to ICML 2021.
+* March 2021: [One paper](https://arxiv.org/abs/2103.03279) posted on arXiv.
+* December 2020: [One paper](https://arxiv.org/abs/2010.09929) accepted to ALT 2021.
+* November 2020: [One paper](https://arxiv.org/abs/1905.13229) accepted to IEEE Transactions on Information Theory.
