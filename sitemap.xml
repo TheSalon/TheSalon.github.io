@@ -3,8 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://thesalon.github.io/publication-type/2/</loc>
+    <lastmod>2022-09-07T12:26:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thesalon.github.io/author/alex-bie/</loc>
+    <lastmod>2022-09-07T12:26:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thesalon.github.io/authors/</loc>
+    <lastmod>2022-09-07T13:04:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thesalon.github.io/author/gautam-kamath/</loc>
+    <lastmod>2022-09-07T13:04:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thesalon.github.io/publication/bie-ks-22/</loc>
+    <lastmod>2022-09-07T12:26:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thesalon.github.io/publication_types/</loc>
+    <lastmod>2022-09-07T13:04:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thesalon.github.io/publication/</loc>
+    <lastmod>2022-09-07T13:04:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thesalon.github.io/</loc>
+    <lastmod>2022-09-07T13:04:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thesalon.github.io/author/vikrant-singhal/</loc>
+    <lastmod>2022-09-07T12:26:46-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://thesalon.github.io/publication-type/1/</loc>
-    <lastmod>2022-05-15T09:35:01-04:00</lastmod>
+    <lastmod>2022-09-07T13:04:42-04:00</lastmod>
   </url>
   
   <url>
@@ -23,11 +68,6 @@
   </url>
   
   <url>
-    <loc>https://thesalon.github.io/authors/</loc>
-    <lastmod>2022-06-10T20:21:02-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://thesalon.github.io/author/ayush-jain/</loc>
     <lastmod>2022-05-15T09:35:01-04:00</lastmod>
   </url>
@@ -38,18 +78,13 @@
   </url>
   
   <url>
-    <loc>https://thesalon.github.io/author/gautam-kamath/</loc>
-    <lastmod>2022-06-10T20:21:02-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://thesalon.github.io/author/huanyu-zhang/</loc>
-    <lastmod>2022-05-15T09:35:01-04:00</lastmod>
+    <lastmod>2022-09-07T13:04:42-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://thesalon.github.io/publication/kamath-lz-22/</loc>
-    <lastmod>2022-05-15T09:35:01-04:00</lastmod>
+    <lastmod>2022-09-07T13:04:42-04:00</lastmod>
   </url>
   
   <url>
@@ -68,16 +103,6 @@
   </url>
   
   <url>
-    <loc>https://thesalon.github.io/publication_types/</loc>
-    <lastmod>2022-06-10T20:21:02-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thesalon.github.io/publication/</loc>
-    <lastmod>2022-06-10T20:21:02-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://thesalon.github.io/publication/acharya-jksz-22/</loc>
     <lastmod>2022-05-15T09:35:01-04:00</lastmod>
   </url>
@@ -88,23 +113,13 @@
   </url>
   
   <url>
-    <loc>https://thesalon.github.io/</loc>
-    <lastmod>2022-06-10T20:21:02-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://thesalon.github.io/author/thomas-steinke/</loc>
     <lastmod>2022-05-15T09:35:01-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thesalon.github.io/author/vikrant-singhal/</loc>
-    <lastmod>2022-06-10T20:20:11-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://thesalon.github.io/author/xingtu-liu/</loc>
-    <lastmod>2022-05-15T09:35:01-04:00</lastmod>
+    <lastmod>2022-09-07T13:04:42-04:00</lastmod>
   </url>
   
   <url>
@@ -268,11 +283,6 @@
   </url>
   
   <url>
-    <loc>https://thesalon.github.io/author/alex-bie/</loc>
-    <lastmod>2022-05-01T21:37:27-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://thesalon.github.io/author/arash-vahdat/</loc>
     <lastmod>2022-05-01T21:37:27-04:00</lastmod>
   </url>
@@ -365,11 +375,6 @@
   <url>
     <loc>https://thesalon.github.io/publication/aden-ali-ak-21/</loc>
     <lastmod>2020-12-21T15:17:48-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thesalon.github.io/publication-type/2/</loc>
-    <lastmod>2020-12-21T15:13:54-08:00</lastmod>
   </url>
   
   <url>
@@ -748,27 +753,15 @@
   </url>
   
   <url>
-    <loc>https://thesalon.github.io/author/chirag-jindal/</loc>
-  </url>
-  
-  <url>
-    <loc>https://thesalon.github.io/author/christian-covington/</loc>
-  </url>
-  
-  <url>
     <loc>https://thesalon.github.io/author/gautam-kamath/</loc>
   </url>
   
   <url>
+    <loc>https://thesalon.github.io/author/jack-douglas/</loc>
+  </url>
+  
+  <url>
     <loc>https://thesalon.github.io/author/jimmy-di/</loc>
-  </url>
-  
-  <url>
-    <loc>https://thesalon.github.io/author/landy-xu/</loc>
-  </url>
-  
-  <url>
-    <loc>https://thesalon.github.io/author/linfeng-ye/</loc>
   </url>
   
   <url>
@@ -784,27 +777,11 @@
   </url>
   
   <url>
-    <loc>https://thesalon.github.io/author/nicholas-vadivelu/</loc>
-  </url>
-  
-  <url>
     <loc>https://thesalon.github.io/other/</loc>
   </url>
   
   <url>
-    <loc>https://thesalon.github.io/author/pranav-subramani/</loc>
-  </url>
-  
-  <url>
     <loc>https://thesalon.github.io/author/shubhankar-mohapatra/</loc>
-  </url>
-  
-  <url>
-    <loc>https://thesalon.github.io/author/sourav-biswas/</loc>
-  </url>
-  
-  <url>
-    <loc>https://thesalon.github.io/author/sushant-agarwal/</loc>
   </url>
   
   <url>
@@ -813,10 +790,6 @@
   
   <url>
     <loc>https://thesalon.github.io/author/vikrant-singhal/</loc>
-  </url>
-  
-  <url>
-    <loc>https://thesalon.github.io/author/xingtu-liu/</loc>
   </url>
   
 </urlset>
