@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Samuel B Hopkins | The Salon</title>
-    <link>https://thesalon.github.io/author/samuel-b-hopkins/</link>
-      <atom:link href="https://thesalon.github.io/author/samuel-b-hopkins/index.xml" rel="self" type="application/rss+xml" />
-    <description>Samuel B Hopkins</description>
+    <title>Shyam Narayanan | The Salon</title>
+    <link>https://thesalon.github.io/author/shyam-narayanan/</link>
+      <atom:link href="https://thesalon.github.io/author/shyam-narayanan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shyam Narayanan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://thesalon.github.io/images/icon_hue168cad3424bfc45f8169f9e0106675a_24249_512x512_fill_lanczos_center_2.png</url>
-      <title>Samuel B Hopkins</title>
-      <link>https://thesalon.github.io/author/samuel-b-hopkins/</link>
+      <title>Shyam Narayanan</title>
+      <link>https://thesalon.github.io/author/shyam-narayanan/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://thesalon.github.io/publication/hopkins-kmn-22/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://thesalon.github.io/publication/hopkins-kmn-22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient Mean Estimation with Pure Differential Privacy via a Sum-of-Squares Exponential Mechanism</title>
-      <link>https://thesalon.github.io/publication/hopkins-km-22/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://thesalon.github.io/publication/hopkins-km-22/</guid>
       <description></description>
     </item>
     

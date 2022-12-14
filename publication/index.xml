@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Considerations for Differentially Private Learning with Large-Scale Public Pretraining</title>
+      <link>https://thesalon.github.io/publication/tramer-kc-22/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/tramer-kc-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>New Lower Bounds for Private Estimation and a Generalized Fingerprinting Lemma</title>
       <link>https://thesalon.github.io/publication/kamath-ms-22/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
@@ -25,6 +33,14 @@
       <link>https://thesalon.github.io/publication/bie-ks-22/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://thesalon.github.io/publication/bie-ks-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustness Implies Privacy in Statistical Estimation</title>
+      <link>https://thesalon.github.io/publication/hopkins-kmn-22/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/hopkins-kmn-22/</guid>
       <description></description>
     </item>
     
