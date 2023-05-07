@@ -1,3 +1,16 @@
+ * December 2022: Three papers ([1](https://arxiv.org/abs/2212.05015), [2](https://arxiv.org/abs/2212.06470), [3](https://arxiv.org/abs/2212.10717)) posted on arXiv, and [one paper](https://arxiv.org/abs/2204.09092) accepted to TMLR.
+ * September 2022: Two papers ([1](https://arxiv.org/abs/2208.07984), [2](https://arxiv.org/abs/2205.08532)) accepted to NeurIPS 2022.
+ * August 2022: [One paper](https://arxiv.org/abs/2208.07984) posted on arXiv.
+ * June 2022: [One paper](https://arxiv.org/abs/2206.02617) posted on arXiv.
+ * May 2022: [One paper](https://arxiv.org/abs/2205.08532) posted on arXiv.
+ * May 2022: Three papers ([1](https://arxiv.org/abs/2111.04609), [2](https://arxiv.org/abs/2111.05320), [3](https://arxiv.org/abs/2106.13414)) accepted to COLT 2022, [one paper](https://arxiv.org/abs/2106.01336) accepted to ICML 2022.
+ * May 2022: Incoming student Sabrina Mokhtari awarded the [Vector Scholarship in Artifical Intelligence](https://cs.uwaterloo.ca/news/sabrina-mokhtari-awarded-2022-vector-scholarship-in-artificial-intelligence).
+ * April 2022: [One paper](https://arxiv.org/abs/2204.09092) posted on arXiv.
+ * April 2022: [One paper](https://arxiv.org/abs/2201.11308) accepted to ISIT 2022.
+ * February 2022: [One paper](https://arxiv.org/abs/2111.12981) accepted to STOC 2022.
+ * January 2022: [One paper](https://arxiv.org/abs/2201.11308) posted on arXiv.
+ * January 2022: [One paper](https://arxiv.org/abs/2110.06500) accepted to ICLR 2022.
+ * January 2022: Two members recognized as [CRA Outstanding Undergraduate Researchers](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/): Nicholas Vadivelu (Runner-Up) and Sourav Biswas (Honorable Mention). 
  * December 2021: [One paper](https://arxiv.org/abs/2111.04906) accepted to AAAI 2022.
  * November 2021: Four papers posted on arXiv: [1](https://arxiv.org/abs/2111.04609), [2](https://arxiv.org/abs/2111.04906), [3](https://arxiv.org/abs/2111.05320), [4](https://arxiv.org/abs/2111.12981).
  * October 2021: Two papers posted on arXiv ([1](https://arxiv.org/abs/2110.06500), [2](https://arxiv.org/abs/2110.14465)).
