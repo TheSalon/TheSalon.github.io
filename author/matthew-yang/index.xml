@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthew Yang | The Salon</title>
+    <link>https://thesalon.github.io/author/matthew-yang/</link>
+      <atom:link href="https://thesalon.github.io/author/matthew-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matthew Yang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://thesalon.github.io/images/icon_hue168cad3424bfc45f8169f9e0106675a_24249_512x512_fill_lanczos_center_2.png</url>
+      <title>Matthew Yang</title>
+      <link>https://thesalon.github.io/author/matthew-yang/</link>
+    </image>
+    
+  </channel>
+</rss>
