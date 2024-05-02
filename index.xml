@@ -5,12 +5,36 @@
     <link>https://thesalon.github.io/</link>
       <atom:link href="https://thesalon.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>The Salon</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://thesalon.github.io/images/icon_hue168cad3424bfc45f8169f9e0106675a_24249_512x512_fill_lanczos_center_2.png</url>
       <title>The Salon</title>
       <link>https://thesalon.github.io/</link>
     </image>
+    
+    <item>
+      <title>Differentially Private Post-Processing for Fair Regression</title>
+      <link>https://thesalon.github.io/publication/xian-lkz-24/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/xian-lkz-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disguised Copyright Infringement of Latent Diffusion Models</title>
+      <link>https://thesalon.github.io/publication/lu-ylky-24/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/lu-ylky-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Position Paper: Considerations for Differentially Private Learning with Large-Scale Public Pretraining</title>
+      <link>https://thesalon.github.io/publication/tramer-kc-24/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/tramer-kc-24/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Indiscriminate Data Poisoning Attacks on Pre-trained Feature Extractors</title>
@@ -33,6 +57,14 @@
       <link>https://thesalon.github.io/publication/bun-kms-24/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://thesalon.github.io/publication/bun-kms-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Private Distribution Learning with Public Data</title>
+      <link>https://thesalon.github.io/publication/bie-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/bie-24/</guid>
       <description></description>
     </item>
     
@@ -145,14 +177,6 @@
       <link>https://thesalon.github.io/publication/majid-23/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://thesalon.github.io/publication/majid-23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Considerations for Differentially Private Learning with Large-Scale Public Pretraining</title>
-      <link>https://thesalon.github.io/publication/tramer-kc-22/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://thesalon.github.io/publication/tramer-kc-22/</guid>
       <description></description>
     </item>
     

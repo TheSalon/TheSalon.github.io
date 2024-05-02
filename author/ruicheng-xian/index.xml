@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruicheng Xian | The Salon</title>
+    <link>https://thesalon.github.io/author/ruicheng-xian/</link>
+      <atom:link href="https://thesalon.github.io/author/ruicheng-xian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ruicheng Xian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thesalon.github.io/images/icon_hue168cad3424bfc45f8169f9e0106675a_24249_512x512_fill_lanczos_center_2.png</url>
+      <title>Ruicheng Xian</title>
+      <link>https://thesalon.github.io/author/ruicheng-xian/</link>
+    </image>
+    
+    <item>
+      <title>Differentially Private Post-Processing for Fair Regression</title>
+      <link>https://thesalon.github.io/publication/xian-lkz-24/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/xian-lkz-24/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

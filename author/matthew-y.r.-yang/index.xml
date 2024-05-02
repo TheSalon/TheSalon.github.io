@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthew Y.R. Yang | The Salon</title>
+    <link>https://thesalon.github.io/author/matthew-y.r.-yang/</link>
+      <atom:link href="https://thesalon.github.io/author/matthew-y.r.-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matthew Y.R. Yang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thesalon.github.io/images/icon_hue168cad3424bfc45f8169f9e0106675a_24249_512x512_fill_lanczos_center_2.png</url>
+      <title>Matthew Y.R. Yang</title>
+      <link>https://thesalon.github.io/author/matthew-y.r.-yang/</link>
+    </image>
+    
+    <item>
+      <title>Disguised Copyright Infringement of Latent Diffusion Models</title>
+      <link>https://thesalon.github.io/publication/lu-ylky-24/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/lu-ylky-24/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
