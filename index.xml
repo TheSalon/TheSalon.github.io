@@ -29,10 +29,26 @@
     </item>
     
     <item>
-      <title>Position Paper: Considerations for Differentially Private Learning with Large-Scale Public Pretraining</title>
+      <title>Position: Considerations for Differentially Private Learning with Large-Scale Public Pretraining</title>
       <link>https://thesalon.github.io/publication/tramer-kc-24/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://thesalon.github.io/publication/tramer-kc-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Avoiding Pitfalls for Privacy Accounting of Subsampled Mechanisms under Composition</title>
+      <link>https://thesalon.github.io/publication/lebeda-rks-24/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/lebeda-rks-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Private Mean Estimation with Person-Level Differential Privacy</title>
+      <link>https://thesalon.github.io/publication/agarwal-kmmsu-24/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/agarwal-kmmsu-24/</guid>
       <description></description>
     </item>
     
@@ -57,6 +73,14 @@
       <link>https://thesalon.github.io/publication/bun-kms-24/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://thesalon.github.io/publication/bun-kms-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advancing Differential Privacy: Where We Are Now and Future Directions for Real-World Deployment</title>
+      <link>https://thesalon.github.io/publication/cummings-deghjkkooprsssttvwxyyzz-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/cummings-deghjkkooprsssttvwxyyzz-24/</guid>
       <description></description>
     </item>
     
@@ -145,14 +169,6 @@
       <link>https://thesalon.github.io/publication/hopkins-kmn-22/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://thesalon.github.io/publication/hopkins-kmn-22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Challenges towards the Next Frontier in Privacy</title>
-      <link>https://thesalon.github.io/publication/cummings-degjhkkooprsssttvwxyyzz-23/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://thesalon.github.io/publication/cummings-degjhkkooprsssttvwxyyzz-23/</guid>
       <description></description>
     </item>
     
@@ -249,14 +265,6 @@
       <link>https://thesalon.github.io/publication/covington-22/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://thesalon.github.io/publication/covington-22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Calibration with Privacy in Peer Review</title>
-      <link>https://thesalon.github.io/publication/ding-kws-22/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://thesalon.github.io/publication/ding-kws-22/</guid>
       <description></description>
     </item>
     
@@ -616,7 +624,7 @@
     </item>
     
     <item>
-      <title>Optimal Testing for Properties of Distributions (NIPS 2015)</title>
+      <title>Optimal Testing for Properties of Distributions</title>
       <link>https://thesalon.github.io/publication/acharya-dk-15/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
       <guid>https://thesalon.github.io/publication/acharya-dk-15/</guid>
