@@ -1,3 +1,15 @@
+ * December 2023: Two papers ([1](https://arxiv.org/abs/2304.06787), 2) accepted to ALT 2024.
+ * November 2023: New paper on [arXiv](https://arxiv.org/abs/2311.06477).
+ * September 2023: Two posters ([1](https://arxiv.org/abs/2212.10717), 2) and one spotlight ([1](https://arxiv.org/abs/2308.06239)) accepted to NeurIPS 2023.
+ * August 2023: Two papers ([1](https://arxiv.org/abs/2206.02617), [2](https://arxiv.org/abs/2302.02936)) accepted to TMLR, and [one paper](https://arxiv.org/abs/2308.06239) posted to arXiv.
+ * July 2023: Gautam Kamath wins the [Faculty of Math Golden Jubilee Research Excellence Award](https://cs.uwaterloo.ca/news/gautam-kamath-receives-faculty-of-math-golden-jubilee-research-excellence-award).
+ * May 2023: Incoming student Jimmy Di awarded the [Vector Scholarship in Artifical Intelligence](https://vectorinstitute.ai/23-24-vector-ai-scholarship-announcement/).
+ * April 2023: [One paper](https://arxiv.org/abs/2303.03592) accepted to ICML 2023, and [one paper](https://arxiv.org/abs/2304.06929) posted on arXiv.
+ * April 2023: The Salon is now affiliated with the [Vector Institute](https://vectorinstitute.ai/).
+ * March 2023: Two papers ([1](https://arxiv.org/abs/2303.01256), [2](https://arxiv.org/abs/2303.03592)) posted on arXiv.
+ * February 2023: Mahbod Majid awarded [Faculty of Mathematics Graduate Research Excellence Award](https://cs.uwaterloo.ca/news/mahbod-majid-receives-faculty-of-mathematics-graduate-research-excellence-award).
+ * February 2023: [One paper](https://arxiv.org/abs/2212.05015) accepted to STOC 2023, and [one paper](https://arxiv.org/abs/2302.02936) posted on arXiv.
+ * January 2023: [One paper](https://arxiv.org/abs/2301.13334) posted on arXiv.
  * December 2022: Three papers ([1](https://arxiv.org/abs/2212.05015), [2](https://arxiv.org/abs/2212.06470), [3](https://arxiv.org/abs/2212.10717)) posted on arXiv, and [one paper](https://arxiv.org/abs/2204.09092) accepted to TMLR.
  * September 2022: Two papers ([1](https://arxiv.org/abs/2208.07984), [2](https://arxiv.org/abs/2205.08532)) accepted to NeurIPS 2022.
  * August 2022: [One paper](https://arxiv.org/abs/2208.07984) posted on arXiv.
