@@ -1,3 +1,8 @@
+ * June 2024: Three new papers ([1](https://arxiv.org/abs/2405.20769), [2](https://arxiv.org/abs/2405.20405), [3](https://arxiv.org/abs/2406.17216)) on arXiv.
+ * May 2024: Three papers ([1](https://arxiv.org/abs/2212.06470), [2](https://arxiv.org/abs/2404.06737), [3](https://arxiv.org/abs/2405.04034)) accepted to ICML 2024.
+ * April 2024: New paper on [arXiv](https://arxiv.org/abs/2404.06737). 
+ * February 2024: [One paper](https://arxiv.org/abs/2402.12626) accepted to SaTML 2024.
+ * January 2024: Matthew Yang recognized as a Finalist for the [CRA Outstanding Undergraduate Research Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/).
  * December 2023: Two papers ([1](https://arxiv.org/abs/2304.06787), 2) accepted to ALT 2024.
  * November 2023: New paper on [arXiv](https://arxiv.org/abs/2311.06477).
  * September 2023: Two posters ([1](https://arxiv.org/abs/2212.10717), 2) and one spotlight ([1](https://arxiv.org/abs/2308.06239)) accepted to NeurIPS 2023.
