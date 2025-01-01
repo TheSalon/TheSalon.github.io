@@ -45,6 +45,14 @@
     </item>
     
     <item>
+      <title>Unbiased Statistical Estimation and Valid Confidence Intervals Under Differential Privacy</title>
+      <link>https://thesalon.github.io/publication/covington-hhk-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/covington-hhk-25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>BridgePure: Revealing the Fragility of Black-box Data Protection</title>
       <link>https://thesalon.github.io/publication/wang-lgky-24/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
@@ -373,14 +381,6 @@
     </item>
     
     <item>
-      <title>Unbiased Statistical Estimation and Valid Confidence Intervals Under Differential Privacy</title>
-      <link>https://thesalon.github.io/publication/covington-hhk-21/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://thesalon.github.io/publication/covington-hhk-21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>PAPRIKA: Private Online False Discovery Rate Control</title>
       <link>https://thesalon.github.io/publication/zhang-kc-21/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
@@ -407,7 +407,7 @@
     <item>
       <title>Private Hypothesis Selection</title>
       <link>https://thesalon.github.io/publication/bun-ksw-21/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://thesalon.github.io/publication/bun-ksw-21/</guid>
       <description></description>
     </item>
