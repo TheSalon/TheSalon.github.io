@@ -1,3 +1,9 @@
+ * December 2024: [BridgePure: Revealing the Fragility of Black-box Data Protection](https://arxiv.org/abs/2412.21061) posted on arXiv.
+ * December 2024: Three papers ([1](https://arxiv.org/abs/2405.20769), [2](https://arxiv.org/abs/2303.01256), [3](https://arxiv.org/abs/2409.19798)) accepted to SaTML 2025.
+ * December 2024: [The Broader Landscape of Robustness in Algorithmic Statistics](https://arxiv.org/abs/2412.02670) posted on arXiv.
+ * October 2024: [Private Mean Estimation with Person-Level Differential Privacy](https://arxiv.org/abs/2405.20405) accepted to SODA 2025.
+ * September 2024: New paper on [arXiv](https://arxiv.org/abs/2409.19798).
+ * July 2024: "Position: Considerations for Differentially Private Learning with Large-Scale Public Pretraining" recognized with an ICML 2024 Best Paper Award.
  * June 2024: Three new papers ([1](https://arxiv.org/abs/2405.20769), [2](https://arxiv.org/abs/2405.20405), [3](https://arxiv.org/abs/2406.17216)) on arXiv.
  * May 2024: Three papers ([1](https://arxiv.org/abs/2212.06470), [2](https://arxiv.org/abs/2404.06737), [3](https://arxiv.org/abs/2405.04034)) accepted to ICML 2024.
  * April 2024: New paper on [arXiv](https://arxiv.org/abs/2404.06737). 
