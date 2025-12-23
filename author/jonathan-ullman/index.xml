@@ -5,7 +5,7 @@
     <link>https://thesalon.github.io/author/jonathan-ullman/</link>
       <atom:link href="https://thesalon.github.io/author/jonathan-ullman/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonathan Ullman</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://thesalon.github.io/images/icon_hue168cad3424bfc45f8169f9e0106675a_24249_512x512_fill_lanczos_center_2.png</url>
       <title>Jonathan Ullman</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Private Mean Estimation with Person-Level Differential Privacy</title>
-      <link>https://thesalon.github.io/publication/agarwal-kmmsu-25/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://thesalon.github.io/publication/agarwal-kmmsu-25/</guid>
+      <title>A Bias-Variance-Privacy Trilemma for Statistical Estimation</title>
+      <link>https://thesalon.github.io/publication/kamath-mrssu-25/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/kamath-mrssu-25/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Bias-Variance-Privacy Trilemma for Statistical Estimation</title>
-      <link>https://thesalon.github.io/publication/kamath-mrssu-23/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://thesalon.github.io/publication/kamath-mrssu-23/</guid>
+      <title>Private Mean Estimation with Person-Level Differential Privacy</title>
+      <link>https://thesalon.github.io/publication/agarwal-kmmsu-25/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://thesalon.github.io/publication/agarwal-kmmsu-25/</guid>
       <description></description>
     </item>
     
