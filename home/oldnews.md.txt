@@ -1,3 +1,8 @@
+ * May 2025: Valentio Iverson wins the [Germain-Erdős Undergraduate Award in Mathematical Research](https://uwaterloo.ca/math/news/valentio-iverson-wins-germain-erdos-undergraduate-award).
+ * May 2025: Gautam Kamath receives the [Ontario Early Researcher Award](https://cs.uwaterloo.ca/news/gautam-kamath-receives-ontario-early-researcher-award-to-further-research-on-data-privacy).
+ * May 2025: One paper accepted to each of ICML 2025 and COLT 2025. 
+ * March 2025: [Optimal Differentially Private Sampling of Unbounded Gaussians](https://arxiv.org/abs/2503.01766) posted on arXiv.
+ * January 2025: Chris Trevisan wins the [CRA Outstanding Undergraduate Research Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/).
  * December 2024: [BridgePure: Revealing the Fragility of Black-box Data Protection](https://arxiv.org/abs/2412.21061) posted on arXiv.
  * December 2024: Three papers ([1](https://arxiv.org/abs/2405.20769), [2](https://arxiv.org/abs/2303.01256), [3](https://arxiv.org/abs/2409.19798)) accepted to SaTML 2025.
  * December 2024: [The Broader Landscape of Robustness in Algorithmic Statistics](https://arxiv.org/abs/2412.02670) posted on arXiv.
